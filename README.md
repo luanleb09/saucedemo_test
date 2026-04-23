@@ -26,7 +26,7 @@ It supports:
 ## 🏗️ Project Structure
 
 ```
-selenium_framework/
+saucedemo_test/
 │
 ├── src/
 │   ├── main/java/
